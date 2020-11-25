@@ -1,4 +1,2 @@
-# springcloud-config
-springcloud-config的配置中心
-
-springcloud-config的配置中心
+config:
+  info:"master brach,springcloud-config/config-dev.yml version=11"
